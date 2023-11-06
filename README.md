@@ -6,4 +6,4 @@
 Технологии разработки  
 программного обеспечения
 
-<https://www.google.com "Google">
+<https://www.google.com>
