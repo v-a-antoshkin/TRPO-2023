@@ -9,6 +9,6 @@
 [https://www.google.com](https://www.google.com "Google")
 
 | Столбец 1 | Столбец 2 | Столбец 3 |
-|:-|-:|:-:|
+|-|-:|:-:|
 |1          |2          |3
 |4          |5          |6
